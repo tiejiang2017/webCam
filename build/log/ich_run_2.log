@@ -1,0 +1,734 @@
+10-14 15:16:56(2116) cos INFO: [Cos_ThreadCreate:99]thread[Cos_InetMgr]:0x3dffa0 create OK
+10-14 15:16:56(2116) cos INFO: [Cos_TimerMgrStartProc:135]timer mgr start proc
+10-14 15:16:56(4112) cos INFO: [Cos_ThreadProc:199]thread[Cos_InetMgr]:0x3dffa0 , threadid:4112 start ok
+10-14 15:16:56(2116) cos INFO: [Cos_ThreadCreate:99]thread[COS_TIMER]:0x3df8c8 create OK
+10-14 15:16:56(6080) cos INFO: [Cos_ThreadProc:199]thread[COS_TIMER]:0x3df8c8 , threadid:6080 start ok
+10-14 15:16:56(6080) cos INFO: [Cos_TimerMgrProc:111]timer mgr start proc OK
+10-14 15:16:56(2116) cos INFO: [Cos_ThreadCreate:99]thread[COS_PID_MGR]:0x916958 create OK
+10-14 15:16:56(2116) cos INFO: [Cos_PidMgrStart:28]Cos_PidMgrStart g_stPidMgr.hPidMgrQueue is : 916918
+10-14 15:16:56(2116) cos INFO: [Cos_SysInit:87]Cos init ok
+10-14 15:16:56(2116) PID_MEFC_MP4MUXER INFO: [Mefc_Mp4Muxer_Init:32]mp4 muxer init ok
+10-14 15:16:56(2116) PID_MEAU INFO: [Meau_AUC_Init:36]meau task init
+10-14 15:16:56(2116) PID_MEFC_MP4MUXER INFO: [Mefc_Mp4DeMuxer_Init:30]mp4 demuxer init ok
+10-14 15:16:56(2116) PID_MEFC_READER INFO: [Mefc_LCR_Init:82]init ok
+10-14 15:16:56(3332) cos INFO: [Cos_ThreadProc:199]thread[COS_PID_MGR]:0x916958 , threadid:3332 start ok
+10-14 15:16:56(3332) cos INFO: [Cos_PidMgrProc:52]pidmgr start OK
+10-14 15:16:56(2116) PID_MECF INFO: [Mecf_MemKeyIdAdd:245]KeyId:18446744073709551615 Is Exist
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString user_serv
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString user
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString user_pwd
+10-14 15:16:56(2116) PID_BASE INFO: [Cbbs_NtySendMsg:112]18446744073709551615 0 Changed [0]
+10-14 15:16:56(2116) PID_MECF INFO: [Mecf_Parse_Certificate:147][18446744073709551615] 1 OS:1 DevReg:1 AuType:0 AuCh:0 ReqReg:1 Status:1 AppId:31112017061511332201497421439982 Version:3.3.1 Info:http://183.136.139.134:80/info User: Cloud:http://183.136.139.134:80/ichanomanager/aws Push:http://183.136.139.134:80/message Auth:115.159.22.134:80 Comm:183.136.138.242:3688
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_LoadAbility:113]./conf/3fca6371cd855631d28aaef6a2789bf2/18446744073709551615/sys/cfg_eng_ability.db Is Not Exist 
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString app_version
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString os_version
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString deviceid
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString name
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString bind_mid
+10-14 15:16:56(2116) PID_BASE INFO: [Cbbs_NtySendMsg:112]18446744073709551615 5 Changed [0]
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_LoadAssistInf:302]./conf/3fca6371cd855631d28aaef6a2789bf2/18446744073709551615/sys/cfg_eng_assistinf.db Is Not Exist 
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString token
+10-14 15:16:56(2116) PID_BASE INFO: [Cbbs_NtySendMsg:112]18446744073709551615 6 Changed [0]
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString email
+10-14 15:16:56(2116) PID_BASE INFO: [Cbbs_NtySendMsg:112]18446744073709551615 6 Changed [0]
+10-14 15:16:56(2116) PID_BASE INFO: [Cbbs_NtySendMsg:112]18446744073709551615 6 Changed [0]
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_ServiceCloudView:354][18446744073709551615] Not Support CLOUD_VIEW
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString message
+10-14 15:16:56(2116) PID_BASE INFO: [Cbbs_NtySendMsg:112]18446744073709551615 6 Changed [0]
+10-14 15:16:56(2116) PID_MECF INFO: [Mecf_LoadSupport:217]18446744073709551615 Load Support:{"business":{},"cid":"50599584"}
+10-14 15:16:56(2116) PID_BASE INFO: [Cbbs_NtySendMsg:112]18446744073709551615 7 Changed [0]
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString s_abi
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString s_srv
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString s_bus
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_LoadEngStatus:395]./conf/3fca6371cd855631d28aaef6a2789bf2/18446744073709551615/sys/cfg_eng_status.db Is Not Exist 
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_LoadBusStatus:442]./conf/3fca6371cd855631d28aaef6a2789bf2/18446744073709551615/sys/cfg_bus_status.db Is Not Exist 
+10-14 15:16:56(2116) cos INFO: [Cos_ThreadCreate:99]thread[PID_MECF]:0x3dfe80 create OK
+10-14 15:16:56(2116) PID_MECF INFO: [Mecf_Init:74]Mecf Init Ok. CID:50599584 SDK VERSION:3.3.1 SERVICE:VIEWER
+10-14 15:16:56(2116) PID_BASE INFO: [Cbbs_SetAuthInf:333]Set Auth Inf 
+10-14 15:16:56(2116) PID_MECF INFO: [Mecf_ParamSet_CompanyId:216]CFG_OP Owner pucCompanyId:11122017060920453701496984966283
+10-14 15:16:56(2116) PID_MECF INFO: [Mecf_ParamSet_CompanyKey:246]CFG_OP 
+10-14 15:16:56(2116) PID_MECF INFO: [Mecf_ParamSet_AppId:276]CFG_OP 
+10-14 15:16:56(2116) cos ERR: [Mecf_ParamSet_License:93]inparam err ((_VOID *)(pucLicense)) == COS_NULL
+10-14 15:16:56(2116) cos ERR: [Mecf_ParamSet_Symbol:122]inparam err ((_VOID *)(pucsymbol)) == COS_NULL
+10-14 15:16:56(2116) STR_CACHE INFO: [Medt_AStreamCache_Init:52]audio cache init ok
+10-14 15:16:56(2116) rawcache INFO: [Medt_Vraw_Init:93]raw mng init ok
+10-14 15:16:56(2116) SHVIDEO INFO: [Medt_ShvR_Init:22]short video init ok 
+10-14 15:16:56(2116) play_cache INFO: [Medt_VideoPlayCache_Init:43]video play cache init ok
+10-14 15:16:56(2116) PID_MERD_DATA INFO: [Merd_Data_Init:19]init ok
+10-14 15:16:56(4268) cos INFO: [Cos_ThreadProc:199]thread[PID_MECF]:0x3dfe80 , threadid:4268 start ok
+10-14 15:16:56(2116) cos INFO: [Cos_ThreadCreate:99]thread[HttpClientThread]:0x3dfec0 create OK
+10-14 15:16:56(2116) PID_HTTP INFO: [Tras_Httpclient_Init:157]Httpclient Initialize success!
+10-14 15:16:56(2116) PID_TRAS INFO: [TrasBase_Alloc:208]Malloc TrasBase Success. Addr is 0095C528
+10-14 15:16:56(2116) PID_TRAS INFO: [TrasServiceInfo_FindByName:762]Find Service serviceName is MONITOR, Service Ptr is 00000000 
+
+10-14 15:16:56(2116) PID_TRAS INFO: [TrasServiceInfo_Create:623]TrasServiceInfo_Create Service Create Name is MONITOR, Version is 3.0.0 
+
+10-14 15:16:56(2116) PID_TRAS INFO: [TrasServiceInfo_CreateStream:643]Register Service Name is MONITOR
+10-14 15:16:56(2116) PID_TRAS INFO: [TrasServiceInfo_FindByName:762]Find Service serviceName is DUPLEXCHANNEL, Service Ptr is 00000000 
+
+10-14 15:16:56(2116) PID_TRAS INFO: [TrasServiceInfo_Create:623]TrasServiceInfo_Create Service Create Name is DUPLEXCHANNEL, Version is 3.0.0 
+
+10-14 15:16:56(2116) PID_TRAS INFO: [TrasServiceInfo_CreateStream:653]Register Service Name is DUPLEXCHANNEL
+10-14 15:16:56(5408) cos INFO: [Cos_ThreadProc:199]thread[HttpClientThread]:0x3dfec0 , threadid:5408 start ok
+10-14 15:16:56(2116) cos INFO: [Cos_ThreadCreate:99]thread[TrasFlowThread]:0x916da0 create OK
+10-14 15:16:56(5412) cos INFO: [Cos_ThreadProc:199]thread[TrasFlowThread]:0x916da0 , threadid:5412 start ok
+10-14 15:16:56(2116) cos INFO: [Cos_ThreadCreate:99]thread[TrasEventCBThread]:0x916de0 create OK
+10-14 15:16:56(4540) cos INFO: [Cos_ThreadProc:199]thread[TrasEventCBThread]:0x916de0 , threadid:4540 start ok
+10-14 15:16:56(4540) PID_TRAS INFO: [TrasBase_EventThread:318]Thread Status Proc is Create.
+10-14 15:16:56(2116) cos INFO: [Cos_ThreadCreate:99]thread[TunnelRecvThread]:0x916e20 create OK
+10-14 15:16:56(4792) cos INFO: [Cos_ThreadProc:199]thread[TunnelRecvThread]:0x916e20 , threadid:4792 start ok
+10-14 15:16:56(4792) PID_TRAS INFO: [TrasBase_TunnelRecvThread:358]Thread Status Proc is Create.
+10-14 15:16:56(2116) cos INFO: [Cos_ThreadCreate:99]thread[TunnelSendThread]:0x916e60 create OK
+10-14 15:16:56(2116) PID_TRAS INFO: [TrasBase_StartThread:124]Tras Init the thread running success!
+10-14 15:16:56(2116) PID_TRAS INFO: [Tras_SetCfgChannelCallback:70][Tras_SetCfgChannelCallback, 70]
+10-14 15:16:56(2116) PID_MECF INFO: [Mecf_ParamSet_SDKVersion:334]CFG_OP [18446744073709551615] Set The Same SDK Version:3.3.1
+10-14 15:16:56(2116) PID_BASE INFO: [Cbbs_EngineSet:94]sdk[3.3.1] init succeeded [Dec 20 2016 14:06:10]  SVN[$Revision: 9897 $] Commit[$Date: 2016-12-20 13:21:47 +0800 (周二, 20 十二�?2016) $]
+10-14 15:16:56(2116) PID_BASE INFO: [Cbbs_SysInit:35]sdk init Service:1 WorkPath:.\ CachePath:.\
+10-14 15:16:56(5308) cos INFO: [Cos_ThreadProc:199]thread[TunnelSendThread]:0x916e60 , threadid:5308 start ok
+10-14 15:16:56(5308) PID_TRAS INFO: [TrasBase_TunnelSendThread:394]Thread Status Proc is Create.
+10-14 15:16:56(2116) cos INFO: [Cos_ThreadCreate:99]thread[FerryThread]:0x967f30 create OK
+10-14 15:16:56(2116) PID_CBAU INFO: [Cbau_Init:70]usr system flag is 1
+10-14 15:16:56(2116) PID_CBCD_VIEWER INFO: [Cbcd_Viewer_Mgr_Init:103]cbcd viewer init ok!
+10-14 15:16:56(2116) PID_CBMD_CDOWN_LIST INFO: [Cbmd_CDown_FileListInit:1658]Init ok
+10-14 15:16:56(2116) PID_CBMD_FILE_ICON INFO: [Cbmd_CDown_FileIconInit:651]init ok
+10-14 15:16:56(2116) PID_CBMD_CDOWN_DECPAKT INFO: [Cbmd_Cdown_DecPackectInit:19]init ok
+10-14 15:16:56(2116) PID_CBMD_LIST_GROUP INFO: [Cbmd_CDown_ListGroupInit:19]init ok
+10-14 15:16:56(2116) PID_CBMD_DEL INFO: [Cbmd_CDown_DelInit:19]init ok
+10-14 15:16:56(2116) PID_CBMD_CDOWN INFO: [Cbmd_CDown_Init:20]init ok
+10-14 15:16:56(2576) cos INFO: [Cos_ThreadProc:199]thread[FerryThread]:0x967f30 , threadid:2576 start ok
+10-14 15:16:56(2116) cos INFO: [Cos_ThreadCreate:99]thread[Cbmd_Player_Task]:0x967f70 create OK
+10-14 15:16:56(2116) PID_CBMD_PLAYER WARN: [Cbmd_Player_Init:24]player init
+10-14 15:16:56(2116) PID_TRAS INFO: [Tras_SetMediaChannelCallback:81][Tras_SetMediaChannelCallback, 81]
+10-14 15:16:56(2116) PID_CBMD_FILE INFO: [Cbmd_File_Init:34]init ok
+10-14 15:16:56(2116) PID_MEFC_READER INFO: [Mefc_LCR_SetFullPathFunc:168]set call back
+10-14 15:16:56(2116) PID_MEFC_READER INFO: [Mefc_LCR_SetMediaTypeFunc:138]set call back
+10-14 15:16:56(2116) PID_MECF INFO: [Mecf_RegCfgFun:253]Module B_TIMERECORD [4] Set Dl Fun [6C5AF7B0] Ul Fun [6C5AF8D0]
+10-14 15:16:56(2116) PID_MECF INFO: [Mecf_RegCfgFun:253]Module B_SHORTRECORD [20] Set Dl Fun [6C5BEC70] Ul Fun [6C5BED90]
+10-14 15:16:56(2116) PID_CBSV INFO: [Cbsv_Init:18]CBSV Init OK!
+10-14 15:16:56(2116) PID_CBDT INFO: [Cbdt_Init:29]init ok
+10-14 15:16:56(2116) PID_MECF INFO: [Mecf_RegCfgFun:253]Module B_ALARMRECORD [33] Set Dl Fun [6C5B4790] Ul Fun [6C5B48B0]
+10-14 15:16:56(2116) PID_MECF INFO: [Mecf_RegCfgFun:253]Module B_SENSOR [7] Set Dl Fun [6C5B7AE0] Ul Fun [6C5B7C00]
+10-14 15:16:56(2116) PID_CBST INFO: [Cbst_Dec_Init:20]Init ok
+10-14 15:16:56(2116) PID_TRAS INFO: [TrasServiceInfo_FindByName:762]Find Service serviceName is ATHOME_RTSP, Service Ptr is 00000000 
+
+10-14 15:16:56(2116) PID_TRAS INFO: [TrasServiceInfo_Create:623]TrasServiceInfo_Create Service Create Name is ATHOME_RTSP, Version is 1.0.0 
+
+10-14 15:16:56(2116) PID_TRAS INFO: [Tras_RegisterServiceChannel:156]Register Service Name is ATHOME_RTSP, ServiceID is 1 
+
+10-14 15:16:56(5280) cos INFO: [Cos_ThreadProc:199]thread[Cbmd_Player_Task]:0x967f70 , threadid:5280 start ok
+10-14 15:16:56(2116) PID_TRAS INFO: [TrasServiceInfo_FindByName:762]Find Service serviceName is ATHOME_COMMAND, Service Ptr is 00000000 
+
+10-14 15:16:56(2116) PID_TRAS INFO: [TrasServiceInfo_Create:623]TrasServiceInfo_Create Service Create Name is ATHOME_COMMAND, Version is 1.0.0 
+
+10-14 15:16:56(2116) PID_TRAS INFO: [Tras_RegisterServiceChannel:156]Register Service Name is ATHOME_COMMAND, ServiceID is 3 
+
+10-14 15:16:56(2116) PID_TRAS INFO: [TrasServiceInfo_FindByName:762]Find Service serviceName is ATHOME_AUDIO, Service Ptr is 00000000 
+
+10-14 15:16:56(2116) PID_TRAS INFO: [TrasServiceInfo_Create:623]TrasServiceInfo_Create Service Create Name is ATHOME_AUDIO, Version is 1.0.0 
+
+10-14 15:16:56(2116) PID_TRAS INFO: [Tras_RegisterServiceChannel:156]Register Service Name is ATHOME_AUDIO, ServiceID is 2 
+
+10-14 15:16:56(2116) PID_OLD_CMD_CLIENT INFO: [Old_Cmd_Client_Mgr_Init:130]old cmd client init ok!
+10-14 15:16:56(2116) PID_OLD_CMD_CLIENT INFO: [Old_Cmd_Client_Mgr_Start:146]old cmd client start ok!
+10-14 15:16:56(2116) PID_CBAU INFO: [Cbau_ReportUsrLogStepStatus:214]cbau report autologin step status 0:usr systerm init code = 0
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:571]Sa_Viewer_OnRecvMsg Enter,msg:10, msg source:15, 
+10-14 15:16:56(2576) SA_VIEWER INFO: [ProcUsrLoginProgressMsg:451]ProcUsrLoginProgressMsg Progress: 0 
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:815]Sa_Viewer_OnRecvMsg Leave.
+10-14 15:16:56(2116) PID_CBAU INFO: [Cbau_ParseAccountInf:142]AutoLogin Flag:0 session 
+10-14 15:16:56(2116) PID_CBAU INFO: [Cbau_ParseCidTmpCfg:307]find cid is 70141245 
+10-14 15:16:56(2116) PID_CBAU INFO: [Cbau_FindPeerCidFromListByCid:1081]get peer cid node  00000000
+10-14 15:16:56(2116) PID_MECF INFO: [Mecf_AddKeyId:1148]Add Key Id:70141245 Type:0
+10-14 15:16:56(2116) PID_MECF INFO: [Mecf_MemKeyIdGet:163]Can't Get [70141245]
+10-14 15:16:56(2116) PID_MECF INFO: [Mecf_MemKeyIdAdd:240]Add Peer:0096D188, KeyId:70141245
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString cpass
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString symbol
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString user_serv
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString user
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString user_pwd
+10-14 15:16:56(2116) PID_BASE INFO: [Cbbs_NtySendMsg:112]70141245 0 Changed [0]
+10-14 15:16:56(2116) PID_MECF INFO: [Mecf_Parse_Certificate:147][70141245] 0 OS:5 DevReg:0 AuType:0 AuCh:0 ReqReg:1 Status:1 AppId:81041d4029ca4e0aae543cbff4e12d0a05 Version:3.3.2 Info:http://106.3.36.220:80/info User: Cloud:http://115.159.22.134:80/ichanomanager/aws Push:http://106.3.36.220:80/message Auth:106.3.36.220:80 Comm:218.106.246.136:3678
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:571]Sa_Viewer_OnRecvMsg Enter,msg:1, msg source:0, 
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:815]Sa_Viewer_OnRecvMsg Leave.
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString name
+10-14 15:16:56(2116) PID_BASE INFO: [Cbbs_NtySendMsg:112]70141245 1 Changed [0]
+10-14 15:16:56(2116) PID_BASE INFO: [Cbbs_NtySendMsg:112]70141245 2 Changed [0]
+10-14 15:16:56(2116) PID_BASE INFO: [Cbbs_NtySendMsg:112]70141245 3 Changed [0]
+10-14 15:16:56(2116) PID_BASE INFO: [Cbbs_NtySendMsg:112]70141245 4 Changed [0]
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:571]Sa_Viewer_OnRecvMsg Enter,msg:1, msg source:0, 
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:815]Sa_Viewer_OnRecvMsg Leave.
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:571]Sa_Viewer_OnRecvMsg Enter,msg:1, msg source:0, 
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:815]Sa_Viewer_OnRecvMsg Leave.
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:571]Sa_Viewer_OnRecvMsg Enter,msg:1, msg source:0, 
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:815]Sa_Viewer_OnRecvMsg Leave.
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:571]Sa_Viewer_OnRecvMsg Enter,msg:1, msg source:0, 
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:815]Sa_Viewer_OnRecvMsg Leave.
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString deviceid
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString country_id
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString area_id
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString region_id
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString city_id
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString county_id
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString isp_id
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString ip
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString bind_mid
+10-14 15:16:56(2116) PID_BASE INFO: [Cbbs_NtySendMsg:112]70141245 5 Changed [0]
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:571]Sa_Viewer_OnRecvMsg Enter,msg:1, msg source:0, 
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:815]Sa_Viewer_OnRecvMsg Leave.
+10-14 15:16:56(2116) cos ERR: [Mecf_Parse_AssistChargeInf:491]inparam err ((_VOID *)(hRoot)) == COS_NULL
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString token
+10-14 15:16:56(2116) PID_BASE INFO: [Cbbs_NtySendMsg:112]70141245 6 Changed [0]
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString email
+10-14 15:16:56(2116) PID_BASE INFO: [Cbbs_NtySendMsg:112]70141245 6 Changed [0]
+10-14 15:16:56(2116) PID_BASE INFO: [Cbbs_NtySendMsg:112]70141245 6 Changed [0]
+10-14 15:16:56(2116) PID_BASE INFO: [Cbbs_NtySendMsg:112]70141245 6 Changed [0]
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString message
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:571]Sa_Viewer_OnRecvMsg Enter,msg:1, msg source:0, 
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:815]Sa_Viewer_OnRecvMsg Leave.
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:571]Sa_Viewer_OnRecvMsg Enter,msg:1, msg source:0, 
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:815]Sa_Viewer_OnRecvMsg Leave.
+10-14 15:16:56(2116) PID_BASE INFO: [Cbbs_NtySendMsg:112]70141245 6 Changed [0]
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:571]Sa_Viewer_OnRecvMsg Enter,msg:1, msg source:0, 
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:815]Sa_Viewer_OnRecvMsg Leave.
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:571]Sa_Viewer_OnRecvMsg Enter,msg:1, msg source:0, 
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:815]Sa_Viewer_OnRecvMsg Leave.
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:571]Sa_Viewer_OnRecvMsg Enter,msg:1, msg source:0, 
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:815]Sa_Viewer_OnRecvMsg Leave.
+10-14 15:16:56(2116) PID_MECF INFO: [Mecf_LoadSupport:217]70141245 Load Support:{"business":{"B_SENSOR":{"S_PUSH":{"interval":"180"},"S_EMAIL":{"interval":"180"}},"B_SHORTRECORD":{},"B_TIMERECORD":{},"B_ALARMRECORD":{"S_PUSH":{"interval":"180"},"S_EMAIL":{"interval":"180"}}},"cid":"70141245"}   
+10-14 15:16:56(2116) PID_MECF INFO: [Mecf_Flush_SupportUnit:947]70141245 [0096E628] Mode:B_SENSOR[7] Support:1
+10-14 15:16:56(2116) PID_MECF INFO: [Mecf_Flush_SupportUnit:947]70141245 [0096E798] Mode:B_SHORTRECORD[20] Support:1
+10-14 15:16:56(2116) PID_MECF INFO: [Mecf_Flush_SupportUnit:947]70141245 [0096E908] Mode:B_TIMERECORD[4] Support:1
+10-14 15:16:56(2116) PID_MECF INFO: [Mecf_Flush_SupportUnit:947]70141245 [0096EA78] Mode:B_ALARMRECORD[33] Support:1
+10-14 15:16:56(2116) PID_BASE INFO: [Cbbs_NtySendMsg:112]70141245 7 Changed [0]
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:571]Sa_Viewer_OnRecvMsg Enter,msg:1, msg source:0, 
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:815]Sa_Viewer_OnRecvMsg Leave.
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString s_srv
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_Parse_String:81]Json GetString s_bus
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_LoadEngStatus:395]./conf/3fca6371cd855631d28aaef6a2789bf2/70141245/sys/cfg_eng_status.db Is Not Exist 
+10-14 15:16:56(2116) PID_MECF WARN: [Mecf_LoadBusStatus:442]./conf/3fca6371cd855631d28aaef6a2789bf2/70141245/sys/cfg_bus_status.db Is Not Exist 
+10-14 15:16:56(2116) PID_BASE INFO: [Cbbs_NtySendMsg:112]70141245 9 Changed [0]
+10-14 15:16:56(2116) PID_MECF INFO: [Mecf_CheckBusBReady:177][70141245] Cfg Is Ready 
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:571]Sa_Viewer_OnRecvMsg Enter,msg:1, msg source:0, 
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:815]Sa_Viewer_OnRecvMsg Leave.
+10-14 15:16:56(2116) PID_CBAU INFO: [Cbau_ReportUsrLogStepStatus:214]cbau report autologin step status 1:usr systerm read local cfg code = 0
+10-14 15:16:56(2116) PID_BASE INFO: [Cbbs_Start:148] Start 
+10-14 15:16:56(2116) PID_BASE INFO: [Cbbs_NtyModuleRun:281]Cbbs direct run  taskid{26] uiMsg[1000]
+10-14 15:16:56(2116) PID_TRAS INFO: [Tras_SetCmdChannelCallback:59][Tras_SetCmdChannelCallback, 59]
+10-14 15:16:56(2116) PID_TRAS INFO: [Tras_SetExtraChannelCallback:92][Tras_SetExtraChannelCallback, 92]
+10-14 15:16:56(2116) PID_CBCD_VIEWER INFO: [Cbcd_Viewer_Mgr_Start:123]cbcd viewer start ok!
+10-14 15:16:56(2116) PID_CBAU INFO: [Cbau_Start:985]cbau task start
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:571]Sa_Viewer_OnRecvMsg Enter,msg:10, msg source:15, 
+10-14 15:16:56(2576) SA_VIEWER INFO: [ProcUsrLoginProgressMsg:451]ProcUsrLoginProgressMsg Progress: 1 
+10-14 15:16:56(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:815]Sa_Viewer_OnRecvMsg Leave.
+10-14 15:16:56(2116) PID_MECF INFO: [Mecf_ParamGet_SDKType:575]CFG_OP [18446744073709551615] Get Service:1
+10-14 15:16:56(2116) PID_TRAS INFO: [Tras_SetPeerCallback:37][Tras_SetPeerCallback, 37]
+10-14 15:16:56(2116) PID_MECF INFO: [Mecf_ParamGet_User:428]CFG_OP [18446744073709551615] Get User:autsyuypq Pwd:dtahdsrvs
+10-14 15:16:57(4112) cos INFO: [Cos_InetGetHostAddrNode:103]get host(authaddr.ichano.cn) ip address
+10-14 15:16:57(4112) cos INFO: [Cwin_InetGetHostName:119]gethostbyname in pucName = authaddr.ichano.cn
+10-14 15:16:57(5412) PID_TRAS INFO: [TrasBase_FlowThread:228]Thread Flow Proc is Create.
+10-14 15:16:57(5412) PID_TRAS INFO: [TrasBase_ProcNeedReq:143]Get LocalIP Success.
+10-14 15:16:57(5412) PID_MECF INFO: [Mecf_ParamGet_CountryId:1619]CFG_OP [18446744073709551615] Get COUNTRY ID:CN 
+10-14 15:16:57(5412) PID_MECF INFO: [Mecf_ParamGet_Language:1581]CFG_OP [18446744073709551615] Get Language:0 
+10-14 15:16:57(5412) PID_TRAS INFO: [TrasBase_ProcNeedReq:164]Get ServerIP Success.
+10-14 15:16:57(5412) cos INFO: [Cos_SocketOpen:394]socket<932> open ok
+10-14 15:16:57(5412) PID_TRAS INFO: [TrasServer_Listen:240]Listen success, the port is 6896.
+10-14 15:16:57(5412) cos INFO: [Cos_SocketOpen:394]socket<936> open ok
+10-14 15:16:57(5412) PID_MECF INFO: [Mecf_ParamGet_OsType:524]CFG_OP [18446744073709551615] Get OsType:1
+10-14 15:16:57(5412) PID_MECF INFO: [Mecf_ParamGet_User:428]CFG_OP [18446744073709551615] Get User:autsyuypq Pwd:dtahdsrvs
+10-14 15:16:57(5412) cos INFO: [Cos_SocketOpen:394]socket<956> open ok
+10-14 15:16:57(5412) cos INFO: [Cos_SocketClose:431]socket<956> closed
+10-14 15:16:57(5412) PID_TRAS INFO: [TrasLansearch_StartSearch:174] Start Search 
+
+10-14 15:16:57(5412) PID_TRAS INFO: [Tras_SetCidInfo:174]NeedReg Flag is 0, CID is 50599584 
+
+10-14 15:16:57(5412) PID_TRAS INFO: [Tras_ProcAutherInitStatus:892]auther init addr flag 0,auther status 11 ,ucSelfAutherFlag = 1
+10-14 15:16:57(5412) PID_TRAS INFO: [TrasServer_ProcState:346]GOTO SERVER_STATUS: EN_TRAS_SERVER_STATE_STARTCONN
+10-14 15:16:57(5412) PID_MECF INFO: [Mecf_ParamGet_RegistFlag:194]CFG_OP Get AuthChangeFlag:1
+10-14 15:16:57(5412) PID_TRAS INFO: [TrasServer_Connect:249]To Connect Server, ServerIP is 183.136.138.242, Port is 3688 fail cnt 0 status 0
+10-14 15:16:57(5412) cos INFO: [Cos_SocketOpen:394]socket<944> open ok
+10-14 15:16:57(5412) PID_TRAS INFO: [TrasServer_ProcState:361]GOTO SERVER_STATUS: EN_TRAS_SERVER_STATE_CONNECTING
+10-14 15:16:57(5412) PID_MECF INFO: [Mecf_ParamGet_RegistFlag:194]CFG_OP Get AuthChangeFlag:1
+10-14 15:16:57(5412) PID_TRAS INFO: [TrasServer_ProcState:376]GOTO SERVER_STATUS: EN_TRAS_SERVER_STATE_CONNECTED
+10-14 15:16:57(4540) PID_CBAU INFO: [Cbau_ReportSelfDevAutherStatus:228]cbau report self dev auther status  3:dev autherd uiCode 0
+10-14 15:16:57(4540) PID_CBAU INFO: [Cbau_ReportSelfDevAutherStatus:228]cbau report self dev auther status  4:dev connect server uiCode 0
+10-14 15:16:57(4540) PID_TRAS INFO: [TrasBase_EventThread:333]ServerState Event Callback: EN_TRAS_SERVER_STATE_CONNECTED
+10-14 15:16:57(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:571]Sa_Viewer_OnRecvMsg Enter,msg:0, msg source:15, 
+10-14 15:16:57(2576) SA_VIEWER INFO: [ProcLoginResultMsg:341]ProcLoginResultMsg Progress: 3 
+10-14 15:16:57(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:815]Sa_Viewer_OnRecvMsg Leave.
+10-14 15:16:57(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:571]Sa_Viewer_OnRecvMsg Enter,msg:0, msg source:15, 
+10-14 15:16:57(2576) SA_VIEWER INFO: [ProcLoginResultMsg:341]ProcLoginResultMsg Progress: 4 
+10-14 15:16:57(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:815]Sa_Viewer_OnRecvMsg Leave.
+10-14 15:16:57(5412) PID_MECF INFO: [Mecf_ParamGet_RegistFlag:194]CFG_OP Get AuthChangeFlag:1
+10-14 15:16:57(5412) PID_TRAS INFO: [Tras_DoAutherDevRegister:762]truns auther status to regist
+10-14 15:16:57(5412) PID_TRAS INFO: [TrasServer_SendAllocateRequest:600]TrasServer Send Allocate Request. 
+10-14 15:16:57(5412) PID_TRAS INFO: [TrasServer_ProcState:411]GOTO SERVER_STATUS: EN_TRAS_SERVER_STATE_ALLOCING
+10-14 15:16:57(5412) PID_TRAS INFO: [TrasServer_ParseServerMsg:902]TrasServer_ProcessAllocateResponse ResultFlag: 0
+
+10-14 15:16:57(5412) PID_TRAS INFO: [TrasServer_ProcState:458]GOTO SERVER_STATUS: EN_TRAS_SERVER_STATE_ALLOCTED
+10-14 15:16:57(4540) PID_MECF INFO: [Mecf_ParamGet_RegistFlag:194]CFG_OP Get AuthChangeFlag:1
+10-14 15:16:57(4540) PID_CBAU INFO: [Cbau_ReportSelfDevAutherStatus:228]cbau report self dev auther status  5:dev online uiCode 0
+10-14 15:16:57(4540) PID_TRAS INFO: [TrasBase_EventThread:333]ServerState Event Callback: EN_TRAS_SERVER_STATE_ALLOCTED
+10-14 15:16:57(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:571]Sa_Viewer_OnRecvMsg Enter,msg:0, msg source:15, 
+10-14 15:16:57(2576) SA_VIEWER INFO: [ProcLoginResultMsg:341]ProcLoginResultMsg Progress: 5 
+10-14 15:16:57(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:815]Sa_Viewer_OnRecvMsg Leave.
+10-14 15:16:58(5412) PID_MEAU INFO: [Meau_GetOneEventId:435]pre get enventid 2 
+10-14 15:16:58(5412) PID_MEAU INFO: [Meau_GetUsrNode:476]get meau node nodeid is 2 reqtype 23,des usr dev auth by symbol 
+10-14 15:16:58(5412) PID_MECF INFO: [Mecf_ParamGet_SDKType:575]CFG_OP [18446744073709551615] Get Service:1
+10-14 15:16:58(5412) PID_MEAU INFO: [Meau_AUC_SelfDevQuery:1688]get http requst {"cid":"50599584","company_id":"11122017060920453701496984966283","company_key":"90a423d242944d93906b36dc4ac3bc87","app_id":"31112017061511332201497421439982","service":"1"}
+10-14 15:16:58(5412) cos INFO: [Cos_SocketOpen:394]socket<968> open ok
+10-14 15:16:58(5412) PID_HTTP INFO: [Tras_Httpclient_SendAsyncPostRequest:780]Slot is 0096C3A0, Socket 968,index is 3 serv 115.159.22.134:80 Url ://115.159.22.134:80/auth/device/query
+10-14 15:16:58(3332) PID_TRAS INFO: [TrasPeerInfo_FindAndCreate:559]Create the Peer 70141245 
+
+10-14 15:16:58(3332) PID_TRAS INFO: [Tras_SetSubInfo:309]Set SubInfo CID is 70141245, NetType is 0 auth flag 1 sub flag1
+
+10-14 15:16:58(3332) PID_MECF INFO: [Mecf_ParamSet_PeerUser:407]CFG_OP [70141245] User Change From autsyuypq To autsysws88888uypq,Pwd Change From dtahdsrvs To dtahsws888888swsdsrvs
+10-14 15:16:58(3332) PID_CBAU INFO: [Cbau_SubLocalCidList:904]Tras_SetSubInfo cid 70141245
+10-14 15:16:58(3332) PID_CBAU INFO: [Cbau_Proc_TimerMsg:584]cbau timer run
+10-14 15:16:58(5408) PID_HTTP INFO: [Tras_HttpProcessLoop:414]Http Socket Connected Slot 0096C3A0, Socket 968,index 3
+10-14 15:16:58(5412) PID_MEAU INFO: [Meau_GetOneEventId:435]pre get enventid 3 
+10-14 15:16:58(5412) PID_MEAU INFO: [Meau_GetUsrNode:476]get meau node nodeid is 3 reqtype 26,des usr dev batch querr  
+10-14 15:16:58(5412) PID_MECF INFO: [Mecf_ParamGet_ISPId:1802]CFG_OP [18446744073709551615] Get ISP ID:100017 
+10-14 15:16:58(5412) PID_MECF INFO: [Mecf_ParamGet_SDKType:575]CFG_OP [18446744073709551615] Get Service:1
+10-14 15:16:58(5412) PID_MEAU INFO: [Meau_AUC_PeerDevQuery:1899]get http requst {"company_id":"11122017060920453701496984966283","company_key":"90a423d242944d93906b36dc4ac3bc87","isp_id":"100017","app_id":"31112017061511332201497421439982","cid":"50599584","service":"0","cid_list":[{"cid":"70141245","flag":"0"}]}
+10-14 15:16:58(5412) cos INFO: [Cos_SocketOpen:394]socket<980> open ok
+10-14 15:16:58(5412) PID_HTTP INFO: [Tras_Httpclient_SendAsyncPostRequest:780]Slot is 0096C2E0, Socket 980,index is 4 serv 115.159.22.134:80 Url ://115.159.22.134:80/auth/device/batchquery
+10-14 15:16:58(5412) PID_TRAS INFO: [TrasServer_SendSubAvsRequest:704]Tras_Server Send Sub Avs 70141245, Local Cid is 50599584
+10-14 15:16:58(5412) PID_TRAS INFO: [TrasTunnel_ProcessState:93]Peer Tunnel State Goto EN_TRAS_PEER_STATE_PREPARED PeerCid is 70141245
+10-14 15:16:58(5412) PID_TRAS INFO: [TrasServer_ParseServerMsg:907]TrasServer_ProcessSubscribeResponse ResultFlag: 0
+
+10-14 15:16:58(5412) PID_TRAS INFO: [TrasServer_ProcessSubscribeResponse:1069]PeerCid is 70141245, SubState is 1
+10-14 15:16:58(5412) PID_TRAS INFO: [TrasTunnel_ProcessState:99]Peer Tunnel State Goto EN_TRAS_PEER_STATE_PROC PeerCid is 70141245
+10-14 15:16:58(5408) PID_HTTP INFO: [Tras_HttpProcessLoop:438]Http Finished Slot is 0096C3A0, Socket is 968, Slot index is 3
+10-14 15:16:58(5408) PID_MEAU INFO: [Meau_UsrFinishRecvHttpResPose:115]recv http response len Is  336 uiReqType = 23
+10-14 15:16:58(5408) PID_TRAS INFO: [Tras_Http_DecrBuffer:55]Tras_Http_DecrBuffer pucBuf[0x96c6c8] uiLen[336]
+10-14 15:16:58(5408) PID_MEAU INFO: [Meau_UsrFinishRecvHttpResPose:126]recv http response is {"code":1000,"data":{"app_id":"31112017061511332201497421439982","cid":"50599584","company_id":"11122017060920453701496984966283","cpassword":"UfuPHoGHoZdW","create_time":"2017-10-12 11:14:48","init_status":"1","os_type":"1","plat_version":"3.3.1","region":"1","symbol":"11215077780885599234","update_time":"2017-10-12 11:14:48"}}       uiReqType =23 
+10-14 15:16:58(5408) PID_MECF INFO: [Mecf_SetAuthStatus:889]Auth Status Change From 1 To 1,Time[1507965327-1507965418]
+10-14 15:16:58(5408) PID_MECF INFO: [Mecf_ParamSet_OsType:490]CFG_OP [18446744073709551615] Set The Same OsType:1
+10-14 15:16:58(5408) PID_MECF INFO: [Mecf_ParamGet_Region:560]CFG_OP [18446744073709551615] Get AuthRegion:1 RequestRegion:1
+10-14 15:16:58(5408) PID_MECF INFO: [Mecf_ParamSet_Region:547]CFG_OP Set The Same Region:1  1
+10-14 15:16:58(5408) PID_MECF INFO: [Mecf_ParamSet_Cid:60]CFG_OP Owner Cid:50599584  CPASS:UfuPHoGHoZdW
+10-14 15:16:58(5408) PID_MECF INFO: [Mecf_ParamSet_Symbol:141]CFG_OP Owner Symbol:11215077780885599234
+10-14 15:16:58(5408) PID_TRAS INFO: [Tras_SetCidInfo:174]NeedReg Flag is 0, CID is 50599584 
+
+10-14 15:16:58(5408) PID_HTTP INFO: [Tras_HttpProcessSlot:509]Http  Finished Slot is 0096C3A0, Socket is 968, Slot is 3
+10-14 15:16:58(5408) cos INFO: [Cos_SocketClose:431]socket<968> closed
+10-14 15:16:58(5408) PID_HTTP INFO: [Tras_HttpProcessLoop:414]Http Socket Connected Slot 0096C2E0, Socket 980,index 4
+10-14 15:16:58(4540) PID_CBAU INFO: [Cbau_FindPeerCidFromListByCid:1081]get peer cid node  0096D088
+10-14 15:16:58(4540) PID_CBAU INFO: [Cbau_PeerListProcSubStatus:733]cbau recv cid 70141245 pCidInf->uiCidStatus = 12 child status 0
+10-14 15:16:58(4540) PID_CBAU INFO: [Cbau_ReportPeerDevAutherStatus:242]cbau report peer dev 70141245 auther status 1: peer dev autherd uiCode 0
+10-14 15:16:58(4540) PID_TRAS INFO: [TrasTunnel_ProcessEvent:164]Callback PeerState CID:70141245, State: 1
+10-14 15:16:58(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:571]Sa_Viewer_OnRecvMsg Enter,msg:5, msg source:15, 
+10-14 15:16:58(2576) SA_VIEWER INFO: [ProcPeerAvsOnlineMsg:397]ProcPeerAvsOnlineMsg Progress: 1 
+10-14 15:16:58(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:815]Sa_Viewer_OnRecvMsg Leave.
+10-14 15:16:59(5408) PID_HTTP INFO: [Tras_HttpProcessLoop:438]Http Finished Slot is 0096C2E0, Socket is 980, Slot index is 4
+10-14 15:16:59(5408) PID_MEAU INFO: [Meau_UsrFinishRecvHttpResPose:115]recv http response len Is  152 uiReqType = 26
+10-14 15:16:59(5408) PID_TRAS INFO: [Tras_Http_DecrBuffer:55]Tras_Http_DecrBuffer pucBuf[0x96c6c8] uiLen[152]
+10-14 15:16:59(5408) PID_MEAU INFO: [Meau_UsrFinishRecvHttpResPose:126]recv http response is {"code":1000,"route_list":[{"cid":"70141245","code":1000,"os_type":"5","plat_version":"3.3.2","route":{"auth_region":"1","request_region":"1"}}]}        uiReqType =26 
+10-14 15:16:59(5408) PID_MECF INFO: [Mecf_ParamSet_SDKVersion:334]CFG_OP [70141245] Set The Same SDK Version:3.3.2
+10-14 15:16:59(5408) PID_MECF INFO: [Mecf_ParamSet_OsType:490]CFG_OP [70141245] Set The Same OsType:5
+10-14 15:16:59(5408) PID_MECF INFO: [Mecf_ParamSet_Region:547]CFG_OP Set The Same Region:1  1
+10-14 15:16:59(5408) PID_HTTP INFO: [Tras_HttpProcessSlot:509]Http  Finished Slot is 0096C2E0, Socket is 980, Slot is 4
+10-14 15:16:59(5408) cos INFO: [Cos_SocketClose:431]socket<980> closed
+10-14 15:16:59(4540) PID_CBAU INFO: [Cbau_FindPeerCidFromListByCid:1081]get peer cid node  0096D088
+10-14 15:16:59(4540) PID_CBAU INFO: [Cbau_PeerListProcSubStatus:733]cbau recv cid 70141245 pCidInf->uiCidStatus = 12 child status 0
+10-14 15:16:59(4540) PID_CBAU INFO: [Cbau_ReportPeerDevAutherStatus:242]cbau report peer dev 70141245 auther status 1: peer dev autherd uiCode 0
+10-14 15:16:59(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:571]Sa_Viewer_OnRecvMsg Enter,msg:5, msg source:15, 
+10-14 15:16:59(2576) SA_VIEWER INFO: [ProcPeerAvsOnlineMsg:397]ProcPeerAvsOnlineMsg Progress: 1 
+10-14 15:16:59(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:815]Sa_Viewer_OnRecvMsg Leave.
+10-14 15:16:59(4540) PID_TRAS INFO: [TrasTunnel_ProcessEvent:164]Callback PeerState CID:70141245, State: 1
+10-14 15:16:59(5412) PID_TRAS INFO: [TrasServer_ProcessInfoPubMsg:1107] PeerCid is 70141245, SubState is 16 , EN_TRAS_SUB_STATE_OFFLINE
+10-14 15:16:59(5412) PID_TRAS INFO: [TrasServer_ProcessInfoPubMsg:1175]PeerCid is 70141245, Avs Info Pub P2P IP is 192.168.1.3 peer localip 192.168.0.100 start p2l flag 0 ipchg flag 1
+
+10-14 15:16:59(5412) PID_TRAS INFO: [TrasServer_ProcessInfoPubMsg:1103] PeerCid is 70141245, SubState is 2 , EN_TRAS_SUB_STATE_ONLINE
+10-14 15:16:59(4540) PID_CBAU INFO: [Cbau_FindPeerCidFromListByCid:1081]get peer cid node  0096D088
+10-14 15:16:59(4540) PID_CBAU INFO: [Cbau_PeerListProcSubStatus:733]cbau recv cid 70141245 pCidInf->uiCidStatus = 12 child status 0
+10-14 15:16:59(4540) PID_CBAU INFO: [Cbau_ReportPeerDevAutherStatus:242]cbau report peer dev 70141245 auther status 2: perr dev online  uiCode 0
+10-14 15:16:59(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:571]Sa_Viewer_OnRecvMsg Enter,msg:5, msg source:15, 
+10-14 15:16:59(2576) SA_VIEWER INFO: [ProcPeerAvsOnlineMsg:397]ProcPeerAvsOnlineMsg Progress: 2 
+10-14 15:16:59(4540) PID_TRAS INFO: [TrasTunnel_ProcessEvent:164]Callback PeerState CID:70141245, State: 2
+10-14 15:16:59(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:815]Sa_Viewer_OnRecvMsg Leave.
+10-14 15:16:59(5412) PID_TRAS INFO: [TrasTunnel_CreateSlot:504]Start Create slot, PeerCid is 70141245, SlotType is 1, Slot is 0096C6C8.
+10-14 15:16:59(5412) PID_TRAS INFO: [TrasTunnel_ToConn:433]PeerCid is 70141245 to Create local slot. LocalIP is 192.168.0.100, Port is 10649, SlotCount is 1
+10-14 15:16:59(5412) PID_TRAS INFO: [TrasTunnel_CreateSlot:504]Start Create slot, PeerCid is 70141245, SlotType is 4, Slot is 0096C770.
+10-14 15:16:59(5412) PID_TRAS INFO: [TrasTunnel_ToConn:457]PeerCid is 70141245 to Create P2P slot. P2PIP is 192.168.1.3, Port is 10649, SlotCount is 2
+10-14 15:16:59(5412) cos INFO: [Cos_SocketOpen:394]socket<980> open ok
+10-14 15:16:59(5412) PID_TRAS INFO: [Tras_SlotProcessState:233]Slot start to Connect, SlotType is 1, Slot is 0096C6C8. Slot socket is 980.
+10-14 15:16:59(5412) cos INFO: [Cos_SocketOpen:394]socket<968> open ok
+10-14 15:16:59(5412) PID_TRAS INFO: [Tras_SlotProcessState:233]Slot start to Connect, SlotType is 4, Slot is 0096C770. Slot socket is 968.
+10-14 15:16:59(4268) PID_MECF INFO: [Mecf_NtyQuery:544]QUERY_INF 70141245 Need [Query:SERVICE-SUPPORT]
+10-14 15:16:59(4268) PID_MECF INFO: [Mecf_NtyQuery:544]QUERY_INF 70141245 Need [Query:BUS-SUPPORT]
+10-14 15:17:00(5412) PID_TRAS INFO: [TrasServer_SendConnRequest:732]Tras_Server Send Connect Request SrcCid: 50599584, PeerCid: 70141245, ConnFlag: 0
+10-14 15:17:00(4268) PID_MECF INFO: [Mecf_SyncEngSaveFile:247]SYNC_FILE Save File:./conf/3fca6371cd855631d28aaef6a2789bf2/18446744073709551615/sys/cfg_eng_certificate.db
+10-14 15:17:00(5412) PID_TRAS INFO: [TrasServer_ParseServerMsg:912]TrasServer_ProcessConnResponse ResultFlag: 0
+
+10-14 15:17:00(5412) PID_TRAS INFO: [TrasServer_OnConnCmd:1234]TrasServer_OnConnCmd llidClientCid: 50599584, llidAvsCid: 70141245, ProxyIP: 119.29.33.150 pstPeer->uiIpchgFlag = 128
+
+10-14 15:17:00(5412) PID_TRAS INFO: [TrasTunnel_CreateSlot:504]Start Create slot, PeerCid is 70141245, SlotType is 16, Slot is 0096C818.
+10-14 15:17:00(5412) PID_TRAS INFO: [TrasTunnel_ToConn:479]PeerCid is 70141245 to Create Proxy slot. ProxyIP is 119.29.33.150, Port is 3056, ProxyConnID: 1134692921881246099, SlotCount is 3
+10-14 15:17:00(5412) cos INFO: [Cos_SocketOpen:394]socket<992> open ok
+10-14 15:17:00(5412) PID_TRAS INFO: [Tras_SlotProcessState:233]Slot start to Connect, SlotType is 16, Slot is 0096C818. Slot socket is 992.
+10-14 15:17:00(5412) PID_TRAS INFO: [Tras_SlotProcessState:247]Slot Connected, SlotType is 16, Slot is 0096C818. Slot socket is 992.
+10-14 15:17:00(5412) PID_TRAS INFO: [Tras_SlotProcessState:266]Slot ProxyMatching, SlotType is 16, Slot is 0096C818. Slot socket is 992.
+10-14 15:17:00(5412) PID_TRAS INFO: [Tras_SlotProcessState:278]Slot ProxyMatched, SlotType is 16, Slot is 0096C818. Slot socket is 992.
+10-14 15:17:01(5412) PID_TRAS INFO: [Tras_SlotProcessState:293]Slot Start to Testing, SlotType is 16, Slot is 0096C818. Slot socket is 992.
+10-14 15:17:01(5412) PID_TRAS INFO: [Tras_SlotProcessState:304]Slot Tested, SlotType is 16, Slot is 0096C818. Slot socket is 992.
+10-14 15:17:01(5412) PID_TRAS INFO: [Tras_SlotProcessState:322]Slot Used, SlotType is 16, Slot is 0096C818. Slot socket is 992.
+10-14 15:17:01(5412) PID_TRAS INFO: [TrasTunnel_SetTunnelSlot:559]Peer Set the BestSlot, PeerCid is 70141245, Slot type is 16, Slot is 0096C818
+10-14 15:17:01(4540) PID_CBAU INFO: [Cbau_FindPeerCidFromListByCid:1081]get peer cid node  0096D088
+10-14 15:17:01(4540) PID_CBAU INFO: [Cbau_PeerListProcSubStatus:733]cbau recv cid 70141245 pCidInf->uiCidStatus = 12 child status 0
+10-14 15:17:01(4540) PID_MECF INFO: [Mecf_SetOnlineStatus:917][70141245] [3.3.2] 4 ON-LINE
+10-14 15:17:01(4540) PID_MECF INFO: [Mecf_CmdAdd:131]MECF_CMD [70141245] Add [0096CAD0] [ENG] AUTH [GET] [0] Message[0]
+10-14 15:17:01(4540) PID_MECF INFO: [Mecf_CmdAdd:131]MECF_CMD [70141245] Add [0096CB68] [ENG] CAM-INFO [GET] [0] Message[0]
+10-14 15:17:01(4540) PID_MECF INFO: [Mecf_CmdAdd:131]MECF_CMD [70141245] Add [0096CC00] [ENG] MIC-INFO [GET] [0] Message[0]
+10-14 15:17:01(4540) PID_MECF INFO: [Mecf_CmdAdd:131]MECF_CMD [70141245] Add [0096CC98] [ENG] STORAGE [GET] [0] Message[0]
+10-14 15:17:01(4540) PID_MECF INFO: [Mecf_CmdAdd:131]MECF_CMD [70141245] Add [0096CD30] [ENG] WLAN [GET] [0] Message[0]
+10-14 15:17:01(4540) PID_MECF INFO: [Mecf_CmdAdd:131]MECF_CMD [70141245] Add [0096CDC8] [ENG] DEV-INFO [GET] [0] Message[0]
+10-14 15:17:01(4540) PID_MECF INFO: [Mecf_CmdAdd:131]MECF_CMD [70141245] Add [0096CE60] [ENG] SERVICE [GET] [0] Message[0]
+10-14 15:17:01(4540) PID_MECF INFO: [Mecf_CmdAdd:126]MECF_CMD [70141245] Add [0096CEF8] [BUS] B_TIMERECORD [GET] [0] Message[0]
+10-14 15:17:01(4540) PID_MECF INFO: [Mecf_CmdAdd:126]MECF_CMD [70141245] Add [0096CF90] [BUS] B_SHORTRECORD [GET] [0] Message[0]
+10-14 15:17:01(4540) PID_MECF INFO: [Mecf_CmdAdd:126]MECF_CMD [70141245] Add [00972BE8] [BUS] B_ALARMRECORD [GET] [0] Message[0]
+10-14 15:17:01(4540) PID_MECF INFO: [Mecf_CmdAdd:126]MECF_CMD [70141245] Add [00972C80] [BUS] B_SENSOR [GET] [0] Message[0]
+10-14 15:17:01(4540) PID_MECF WARN: [Mecf_Cmd_HandShake:1130]MECF_CMD [70141245] HandShake
+10-14 15:17:01(4540) PID_CBAU INFO: [Cbau_ReportPeerDevAutherStatus:242]cbau report peer dev 70141245 auther status 3: peer dev can use uiCode 0
+10-14 15:17:01(4540) PID_TRAS INFO: [TrasTunnel_ProcessEvent:161]Callback PeerState CID:70141245, State: EN_TRAS_SUB_STATE_CANUSE
+10-14 15:17:01(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:571]Sa_Viewer_OnRecvMsg Enter,msg:5, msg source:15, 
+10-14 15:17:01(2576) SA_VIEWER INFO: [ProcPeerAvsOnlineMsg:397]ProcPeerAvsOnlineMsg Progress: 3 
+10-14 15:17:01(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:815]Sa_Viewer_OnRecvMsg Leave.
+10-14 15:17:02(4268) PID_MECF INFO: [Mecf_QueryBusSupport:349]QUERY_INF [70141245] [http://106.3.36.220:80/info] [/info/v3/config/support/0/business] [67] Query {"operator":"50599584","cid":"70141245","ts":"2017-06-14 17:49:26"}
+10-14 15:17:02(4268) cos INFO: [Cos_SocketOpen:394]socket<1012> open ok
+10-14 15:17:02(4268) PID_HTTP INFO: [Tras_Httpclient_SendAsyncPostRequest:780]Slot is 0096C3A0, Socket 1012,index is 5 serv 106.3.36.220:80 Url o/v3/config/support/0/business
+10-14 15:17:02(4268) PID_MECF INFO: [Mecf_QueryType:588]QUERY_INF 70141245 Is Online Not Need Query Info [Query:SERVICE-SUPPORT]
+10-14 15:17:02(2116) PID_MECF INFO: [Mecf_ParamGet_OsType:524]CFG_OP [70141245] Get OsType:5
+10-14 15:17:02(2116) PID_MECF INFO: [Mecf_ParamGet_AppVersion:1406]CFG_OP [70141245] APP Version Is:YGT.AJ0006-v170329.1000 
+10-14 15:17:02(2116) PID_MECF INFO: [Mecf_ParamGet_OsVersion:1371]CFG_OP [70141245] OS Version Is:linux 
+10-14 15:17:02(2116) PID_MECF INFO: [Mecf_ParamGet_SDKVersion:346]CFG_OP [70141245] SDK Version:3.3.2 
+10-14 15:17:02(2116) PID_TRAS INFO: [TrasChannel_Create:689]Create Channel PeerCid is 70141245, ServiceID is 11, ChannelID is 1
+10-14 15:17:02(2116) PID_TRAS INFO: [TrasStream_CreateLiveChannel:67]Call Create Live Channel PeerCid is 70141245, MicId is 0, CamID is 0, StreamID is 0, ChannelID is 1
+10-14 15:17:02(2116) PID_CBMD_PLAYER INFO: [Cbmd_Player_Req_StartLiveStream:767]player[00972D18] live stream create llidPeerCid[70141245], iMicId[0], iCameraId[0], iStreamId[0]
+10-14 15:17:02(2116) SA_VIEWER INFO: [CRvsViewerMedia::OpenLiveStream:801]StreamerCID:70141245 ,iCamIndex:0, iStreamIndex:0 ,pstHandleYuv: 0x96c358, Play Handle: 0x20 ,Version:0
+10-14 15:17:02(5412) PID_TRAS INFO: [TrasChannel_SendCreateReq:22]StartChannel Send Request PeerCID:70141245, ChannelID is 1, ServiceID is 11 
+
+10-14 15:17:02(4792) PID_TRAS INFO: [TrasChannel_ProcessCreateResponse:135]Recv Create Channel Res, PeerCID is 70141245, ChannelID is 1, PeerChannelID is 2, Status is 0
+10-14 15:17:02(5412) PID_TRAS INFO: [TrasChannel_ProcessState:387]Channel Create Success PeerCid is 70141245, ChannelID is 1
+10-14 15:17:02(4540) PID_CBMD_PLAYER INFO: [Cbmd_Player_OnChannelState:428]-------------player[00972D18], ucPlayerFsm[1] uiState[0], uiCode[0]
+10-14 15:17:02(4540) PID_CBMD_PLAYER INFO: [Cbmd_Player_SndMsg:141]player[00972D18] send msg, uiStatus[0] uiCode[0]
+10-14 15:17:02(4540) PID_CBMD INFO: [Cbmd_ProcComStatus:320]can't find this channel
+10-14 15:17:02(4540) PID_TRAS INFO: [TrasStream_ProcessEvent:873]Callback Channel State CID:70141245, ChannelID 1, State: State is 0, Code is 0
+10-14 15:17:02(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:571]Sa_Viewer_OnRecvMsg Enter,msg:0, msg source:11, 
+10-14 15:17:02(2576) SA_VIEWER INFO: [HandleCbmdMsg:219]EN_CBMT_VIEWER_CONNECT_STATUS:cid:70141245, hHandle:0x20 ,Status:0 ,Code:0
+10-14 15:17:02(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:815]Sa_Viewer_OnRecvMsg Leave.
+10-14 15:17:02(5412) PID_TRAS INFO: [TrasStream_ProcessState:497]Stream Channel Send Request Success PeerCid is 70141245, ChannelID is 1
+10-14 15:17:03(4792) PID_TRAS INFO: [TrasStream_ParseProtocal:57]recv protocal is 202
+10-14 15:17:03(4792) play_cache INFO: [Medt_VPlay_CreateWriteHandle:182]creat play cache 009738C8 userid is 1 uiStreamType = 0 width = 704 total cache is 1,POS 0, buff 00973948 buff len 307200
+10-14 15:17:03(4792) play_cache INFO: [Medt_APlay_CreateWriteHandle:150]creat play cache 009BE9D0 userid is 1 uiStreamType = 0  total cache is POS 0 buff 00000000 buff len 409600
+10-14 15:17:03(5412) PID_TRAS INFO: [TrasStream_ProcessState:604]Process streamchannel response control is 4
+10-14 15:17:03(5408) PID_HTTP INFO: [Tras_HttpProcessLoop:414]Http Socket Connected Slot 0096C3A0, Socket 1012,index 5
+10-14 15:17:03(4540) PID_CBMD_PLAYER INFO: [Cbmd_Player_OnChannelState:428]-------------player[00972D18], ucPlayerFsm[1] uiState[2], uiCode[0]
+10-14 15:17:03(4540) PID_CBMD_PLAYER INFO: [Cbmd_Player_CreateAVTrak:207]pstCbmdPlayer:00972D18 Have Video:1 
+10-14 15:17:03(4540) PID_CBMD_PLAYER_READER INFO: [Cbmd_Player_MemReaderAlloc:10]reader[0092B3A0] alloc
+10-14 15:17:03(4540) play_cache INFO: [Medt_VPlay_CreatReadHandle:653]creat video read handle 009419C8 usrid 1 total num 1 used num 1  0
+10-14 15:17:03(4540) PID_CBMD_PLAYER_READER INFO: [Cbmd_Player_MemReaderAlloc:29]reader[0092B3A0] alloc
+10-14 15:17:03(4540) PID_CBMD_PLAYER INFO: [Cbmd_Player_CreateAVTrak:217]pstCbmdPlayer:00972D18 pstVTrak[003DFF00] 
+10-14 15:17:03(4540) PID_CBMD_PLAYER_READER INFO: [Cbmd_Player_MemReaderAlloc:10]reader[0092B688] alloc
+10-14 15:17:03(4540) play_cache INFO: [Medt_APlay_GetReadNode:478]creat audio read handle ,total read cnt is 1
+10-14 15:17:03(4540) play_cache INFO: [Medt_APlay_CreatReadHandle:545]creat audio read handle 009BEA50,UsrId 1 read pos 0
+10-14 15:17:03(4540) PID_CBMD_PLAYER_READER INFO: [Cbmd_Player_MemReaderAlloc:29]reader[0092B688] alloc
+10-14 15:17:03(4540) PID_CBMD_PLAYER INFO: [Cbmd_Player_CreateAVTrak:231]pstCbmdPlayer:00972D18 pstATrak[009BEA88] 
+10-14 15:17:03(4540) PID_CBMD_PLAYER INFO: [Cbmd_Player_SndMsg:141]player[00972D18] send msg, uiStatus[2] uiCode[0]
+10-14 15:17:03(4540) PID_CBMD INFO: [Cbmd_ProcProcessStatus:253]can't find this channel
+10-14 15:17:03(4540) PID_TRAS INFO: [TrasStream_ProcessEvent:878]Callback Channel State CID:70141245, ChannelID 1, State: State is 2, Code is 0
+10-14 15:17:03(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:571]Sa_Viewer_OnRecvMsg Enter,msg:0, msg source:11, 
+10-14 15:17:03(2576) SA_VIEWER INFO: [HandleCbmdMsg:219]EN_CBMT_VIEWER_CONNECT_STATUS:cid:70141245, hHandle:0x20 ,Status:2 ,Code:0
+10-14 15:17:03(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:815]Sa_Viewer_OnRecvMsg Leave.
+10-14 15:17:03(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:03(5408) PID_HTTP INFO: [Tras_HttpProcessLoop:438]Http Finished Slot is 0096C3A0, Socket is 1012, Slot index is 5
+10-14 15:17:03(5408) PID_TRAS INFO: [Tras_Http_DecrBuffer:55]Tras_Http_DecrBuffer pucBuf[0x9beac0] uiLen[264]
+10-14 15:17:03(5408) PID_BASE INFO: [Cbbs_NtySendMsg:112]70141245 7 Changed [0]
+10-14 15:17:03(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:571]Sa_Viewer_OnRecvMsg Enter,msg:1, msg source:0, 
+10-14 15:17:03(2576) SA_VIEWER INFO: [Sa_Viewer_OnRecvMsg:815]Sa_Viewer_OnRecvMsg Leave.
+10-14 15:17:03(5408) PID_MECF INFO: [Mecf_SyncEngSaveFile:247]SYNC_FILE Save File:./conf/3fca6371cd855631d28aaef6a2789bf2/70141245/sys/cfg_eng_support.db
+10-14 15:17:03(5408) PID_MECF INFO: [Mecf_QueryFinished:198]QUERY_INF CID:70141245 [Query:BUS-SUPPORT] Success String:{"code":1000,"data":{"business":{"B_SENSOR":{"S_PUSH":{"interval":"180"},"S_EMAIL":{"interval":"180"}},"B_SHORTRECORD":{},"B_TIMERECORD":{},"B_ALARMRECORD":{"S_PUSH":{"interval":"180"},"S_EMAIL":{"interval":"180"}}},"cid":"70141245"},"ts":"2017-06-14 17:49:26"}   
+10-14 15:17:03(5408) PID_HTTP INFO: [Tras_HttpProcessSlot:509]Http  Finished Slot is 0096C3A0, Socket is 1012, Slot is 5
+10-14 15:17:03(5408) cos INFO: [Cos_SocketClose:431]socket<1012> closed
+10-14 15:17:03(4792) PID_CBCD_VIEWER INFO: [Cbcd_Viewer_OnRecvCustomData:373]recv cunstom data,cid:70141245 len:79
+10-14 15:17:03(4792) play_cache INFO: [Medt_APlay_GetFrameBuff:335]audio cache 009BE9D0 allloc buff 06300048  len 409600
+10-14 15:17:03(4792) play_cache INFO: [Medt_Aplay_SetFrameInfo:387]write handle 009BE9D0 recv frist audio frame 
+10-14 15:17:03(4792) PID_TRAS INFO: [TrasStream_ParseData:411]Recv First Audio Frame, ChannelID is 1, PeerChannelID is 2
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_CmdProc:1770]MECF_CMD SEND [70141245] [0096CAD0] [ENG] [GET] start At 0
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_Cmd_Send:1153]MECF_CMD SEND [70141245] [67] SEND:{"MD":4,"CID":"50599584","ID":"1","UT":"0","PV":"3.3.1","HS":"118"}
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_CmdRmvFinished:1716]MECF_CMD Rmv 70141245 [0096CAD0] CMD TYPE:1  Content:0
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_CmdProc:1770]MECF_CMD SEND [70141245] [0096CB68] [ENG] [GET] start At 0
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_Cmd_Send:1153]MECF_CMD SEND [70141245] [67] SEND:{"MD":4,"CID":"50599584","ID":"2","UT":"1","PV":"3.3.1","HS":"105"}
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_CmdRmvFinished:1716]MECF_CMD Rmv 70141245 [0096CB68] CMD TYPE:1  Content:1
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_CmdProc:1770]MECF_CMD SEND [70141245] [0096CC00] [ENG] [GET] start At 0
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_Cmd_Send:1153]MECF_CMD SEND [70141245] [67] SEND:{"MD":4,"CID":"50599584","ID":"3","UT":"2","PV":"3.3.1","HS":"100"}
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_CmdRmvFinished:1716]MECF_CMD Rmv 70141245 [0096CC00] CMD TYPE:1  Content:2
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_CmdProc:1770]MECF_CMD SEND [70141245] [0096CC98] [ENG] [GET] start At 0
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_Cmd_Send:1153]MECF_CMD SEND [70141245] [67] SEND:{"MD":4,"CID":"50599584","ID":"4","UT":"3","PV":"3.3.1","HS":"100"}
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_CmdRmvFinished:1716]MECF_CMD Rmv 70141245 [0096CC98] CMD TYPE:1  Content:3
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_CmdProc:1770]MECF_CMD SEND [70141245] [0096CD30] [ENG] [GET] start At 0
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_Cmd_Send:1153]MECF_CMD SEND [70141245] [67] SEND:{"MD":4,"CID":"50599584","ID":"5","UT":"4","PV":"3.3.1","HS":"101"}
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_CmdRmvFinished:1716]MECF_CMD Rmv 70141245 [0096CD30] CMD TYPE:1  Content:4
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_CmdProc:1770]MECF_CMD SEND [70141245] [0096CDC8] [ENG] [GET] start At 0
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_Cmd_Send:1153]MECF_CMD SEND [70141245] [67] SEND:{"MD":4,"CID":"50599584","ID":"6","UT":"5","PV":"3.3.1","HS":"103"}
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_CmdRmvFinished:1716]MECF_CMD Rmv 70141245 [0096CDC8] CMD TYPE:1  Content:5
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_CmdProc:1770]MECF_CMD SEND [70141245] [0096CE60] [ENG] [GET] start At 0
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_Cmd_Send:1153]MECF_CMD SEND [70141245] [67] SEND:{"MD":4,"CID":"50599584","ID":"7","UT":"6","PV":"3.3.1","HS":"101"}
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_CmdRmvFinished:1716]MECF_CMD Rmv 70141245 [0096CE60] CMD TYPE:1  Content:6
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_CmdProc:1770]MECF_CMD SEND [70141245] [0096CEF8] [BUS] [GET] start At 0
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_CmdGetBus:1455]MECF_CMD SEND [70141245] [0096CEF8] P2P [BUS] [GET] 
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_Cmd_Send:1153]MECF_CMD SEND [70141245] [68] SEND:{"MD":4,"CID":"50599584","ID":"8","PID":"4","PV":"3.3.1","HS":"100"}
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_CmdRmvFinished:1716]MECF_CMD Rmv 70141245 [0096CEF8] CMD TYPE:0  Content:4
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_CmdProc:1770]MECF_CMD SEND [70141245] [0096CF90] [BUS] [GET] start At 0
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_CmdGetBus:1455]MECF_CMD SEND [70141245] [0096CF90] P2P [BUS] [GET] 
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_Cmd_Send:1153]MECF_CMD SEND [70141245] [69] SEND:{"MD":4,"CID":"50599584","ID":"9","PID":"20","PV":"3.3.1","HS":"100"}
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_CmdRmvFinished:1716]MECF_CMD Rmv 70141245 [0096CF90] CMD TYPE:0  Content:20
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_CmdProc:1770]MECF_CMD SEND [70141245] [00972BE8] [BUS] [GET] start At 0
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_CmdGetBus:1455]MECF_CMD SEND [70141245] [00972BE8] P2P [BUS] [GET] 
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_Cmd_Send:1153]MECF_CMD SEND [70141245] [70] SEND:{"MD":4,"CID":"50599584","ID":"10","PID":"33","PV":"3.3.1","HS":"100"}
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_CmdRmvFinished:1716]MECF_CMD Rmv 70141245 [00972BE8] CMD TYPE:0  Content:33
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_CmdProc:1770]MECF_CMD SEND [70141245] [00972C80] [BUS] [GET] start At 0
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_CmdGetBus:1455]MECF_CMD SEND [70141245] [00972C80] P2P [BUS] [GET] 
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_Cmd_Send:1153]MECF_CMD SEND [70141245] [69] SEND:{"MD":4,"CID":"50599584","ID":"11","PID":"7","PV":"3.3.1","HS":"100"}
+10-14 15:17:03(4268) PID_MECF INFO: [Mecf_CmdRmvFinished:1716]MECF_CMD Rmv 70141245 [00972C80] CMD TYPE:0  Content:7
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_Cmd_Recv:1170]MECF_CMD RECV [70141245] [66] RECV:{"MD":4,"CID":"70141245","ID":"15","UT":"0","PV":"3.3.2","HS":"1"}
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_CmdParseRecv:954]MECF_CMD RECV RECV :GET 
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_CmdParseGet:665]MECF_CMD RECV RECV 70141245 GET  NEED RSP
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_ParamSet_SDKVersion:334]CFG_OP [70141245] Set The Same SDK Version:3.3.2
+10-14 15:17:03(4792) PID_MECF WARN: [Mecf_Parse_UI:30]Json GetIntegerEx PID, iValue 0
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_CmdAdd:131]MECF_CMD [70141245] Add [00972BE8] [ENG] AUTH [GET-RSP] [1] Message[15]
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_Cmd_Recv:1170]MECF_CMD RECV [70141245] [68] RECV:{"MD":4,"CID":"70141245","ID":"16","UT":"1","PV":"3.3.2","HS":"100"}
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_CmdParseRecv:954]MECF_CMD RECV RECV :GET 
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_CmdParseGet:665]MECF_CMD RECV RECV 70141245 GET  NEED RSP
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_ParamSet_SDKVersion:334]CFG_OP [70141245] Set The Same SDK Version:3.3.2
+10-14 15:17:03(4792) PID_MECF WARN: [Mecf_Parse_UI:30]Json GetIntegerEx PID, iValue 0
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_CmdParseGet:719]MECF_CMD RECV RECV 70141245 Sign:100 TYPE[1] NOT NEED RSP 
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_Cmd_Recv:1170]MECF_CMD RECV [70141245] [68] RECV:{"MD":4,"CID":"70141245","ID":"17","UT":"2","PV":"3.3.2","HS":"100"}
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_CmdParseRecv:954]MECF_CMD RECV RECV :GET 
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_CmdParseGet:665]MECF_CMD RECV RECV 70141245 GET  NEED RSP
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_ParamSet_SDKVersion:334]CFG_OP [70141245] Set The Same SDK Version:3.3.2
+10-14 15:17:03(4792) PID_MECF WARN: [Mecf_Parse_UI:30]Json GetIntegerEx PID, iValue 0
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_CmdParseGet:719]MECF_CMD RECV RECV 70141245 Sign:100 TYPE[2] NOT NEED RSP 
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_Cmd_Recv:1170]MECF_CMD RECV [70141245] [68] RECV:{"MD":4,"CID":"70141245","ID":"18","UT":"3","PV":"3.3.2","HS":"100"}
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_CmdParseRecv:954]MECF_CMD RECV RECV :GET 
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_CmdParseGet:665]MECF_CMD RECV RECV 70141245 GET  NEED RSP
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_ParamSet_SDKVersion:334]CFG_OP [70141245] Set The Same SDK Version:3.3.2
+10-14 15:17:03(4792) PID_MECF WARN: [Mecf_Parse_UI:30]Json GetIntegerEx PID, iValue 0
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_CmdParseGet:719]MECF_CMD RECV RECV 70141245 Sign:100 TYPE[3] NOT NEED RSP 
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_Cmd_Recv:1170]MECF_CMD RECV [70141245] [68] RECV:{"MD":4,"CID":"70141245","ID":"19","UT":"4","PV":"3.3.2","HS":"100"}
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_CmdParseRecv:954]MECF_CMD RECV RECV :GET 
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_CmdParseGet:665]MECF_CMD RECV RECV 70141245 GET  NEED RSP
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_ParamSet_SDKVersion:334]CFG_OP [70141245] Set The Same SDK Version:3.3.2
+10-14 15:17:03(4792) PID_MECF WARN: [Mecf_Parse_UI:30]Json GetIntegerEx PID, iValue 0
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_CmdParseGet:719]MECF_CMD RECV RECV 70141245 Sign:100 TYPE[4] NOT NEED RSP 
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_Cmd_Recv:1170]MECF_CMD RECV [70141245] [68] RECV:{"MD":4,"CID":"70141245","ID":"20","UT":"5","PV":"3.3.2","HS":"109"}
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_CmdParseRecv:954]MECF_CMD RECV RECV :GET 
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_CmdParseGet:665]MECF_CMD RECV RECV 70141245 GET  NEED RSP
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_ParamSet_SDKVersion:334]CFG_OP [70141245] Set The Same SDK Version:3.3.2
+10-14 15:17:03(4792) PID_MECF WARN: [Mecf_Parse_UI:30]Json GetIntegerEx PID, iValue 0
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_CmdParseGet:719]MECF_CMD RECV RECV 70141245 Sign:109 TYPE[5] NOT NEED RSP 
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_Cmd_Recv:1170]MECF_CMD RECV [70141245] [68] RECV:{"MD":4,"CID":"70141245","ID":"21","UT":"6","PV":"3.3.2","HS":"101"}
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_CmdParseRecv:954]MECF_CMD RECV RECV :GET 
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_CmdParseGet:665]MECF_CMD RECV RECV 70141245 GET  NEED RSP
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_ParamSet_SDKVersion:334]CFG_OP [70141245] Set The Same SDK Version:3.3.2
+10-14 15:17:03(4792) PID_MECF WARN: [Mecf_Parse_UI:30]Json GetIntegerEx PID, iValue 0
+10-14 15:17:03(4792) PID_MECF INFO: [Mecf_CmdParseGet:719]MECF_CMD RECV RECV 70141245 Sign:101 TYPE[6] NOT NEED RSP 
+10-14 15:17:04(4792) play_cache INFO: [Medt_Vplay_SetFrameInfo:527]video handle 009738C8 recv first video frame 
+10-14 15:17:04(4792) PID_TRAS INFO: [TrasStream_ParseData:365]Recv First Video Frame, ChannelID is 1, PeerChannelID is 2
+10-14 15:17:04(2116) play_cache INFO: [Medt_VPlay_ReadFrame:830]read 009419C8 first video frame ok time 55112471 
+10-14 15:17:04(2116) PID_CBST INFO: [Cbst_Dec_VDecoderAlloc:112]VD task[00972C80] create ok, uiVideoType[10100]
+10-14 15:17:04(2116) PID_CBST INFO: [Cbst_Dec_CreateVideoDec:133]VD task[00972C80] create hVDHandle[0092B670] ok, uiVideoType[10100], uiStreamPixFmt[0]
+10-14 15:17:04(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:04(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:04(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:04(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:04(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:05(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:05(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:05(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:05(4268) PID_MECF INFO: [Mecf_CmdProc:1770]MECF_CMD SEND [70141245] [00972BE8] [ENG] [GET-RSP] start At 0
+10-14 15:17:05(4268) PID_MECF INFO: [Mecf_CmdGetEngRsp:1500]MECF_CMD SEND [70141245] [00972BE8] [1] [ENG] [GET-RSP] [{"MD":5,"CID":"50599584","ID":"15","UT":"0","RT":"1","CT":{"cid":"50599584","service":"1","os_type":"1","plat_version":"3.3.1","app_id":"31112017061511332201497421439982","info_serv":"http://183.136.139.134:80/info","user_serv":"","push_serv":"http://183.136.139.134:80/message","auth_serv":"115.159.22.134:80","comm_serv":"183.136.138.242:3688","cloud_serv":"http://183.136.139.134:80/ichanomanager/aws"}}] 
+10-14 15:17:05(4268) PID_MECF INFO: [Mecf_Cmd_Send:1153]MECF_CMD SEND [70141245] [406] SEND:{"MD":5,"CID":"50599584","ID":"15","UT":"0","RT":"1","CT":{"cid":"50599584","service":"1","os_type":"1","plat_version":"3.3.1","app_id":"31112017061511332201497421439982","info_serv":"http://183.136.139.134:80/info","user_serv":"","push_serv":"http://183.136.139.134:80/message","auth_serv":"115.159.22.134:80","comm_serv":"183.136.138.242:3688","cloud_serv":"http://183.136.139.134:80/ichanomanager/aws"}}
+10-14 15:17:05(4268) PID_MECF INFO: [Mecf_CmdRmvFinished:1716]MECF_CMD Rmv 70141245 [00972BE8] CMD TYPE:1  Content:0
+10-14 15:17:05(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:05(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:05(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:06(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:06(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:06(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:06(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:06(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:07(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:07(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:07(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:07(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:07(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:08(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:08(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:08(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:08(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:08(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:08(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:09(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:09(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:09(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:09(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:09(4268) PID_MECF INFO: [Mecf_QueryRmvFinished:706]QUERY_INF Rmv 70141245  Query [0096CA10]
+10-14 15:17:09(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:10(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:10(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:10(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:10(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:10(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:11(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:11(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:11(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:11(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:11(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:11(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:12(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:12(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:12(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:12(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:12(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:13(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:13(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:13(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:13(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:13(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:14(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:14(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:14(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:14(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:14(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:14(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:15(5412) PID_TRAS INFO: [Tras_SlotProcessState:250]Slot Connecting timeout, SlotType is 1, Slot is 0096C6C8. Slot socket is 980.
+10-14 15:17:15(5412) PID_TRAS INFO: [Tras_SlotProcessState:250]Slot Connecting timeout, SlotType is 4, Slot is 0096C770. Slot socket is 968.
+10-14 15:17:15(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:15(5412) PID_TRAS INFO: [Tras_SlotClose:158]To close the Slot, Slot is 0096C6C8.
+10-14 15:17:15(5412) PID_TRAS INFO: [Tras_SlotClose:166]SlotClose Slot Socket 980
+10-14 15:17:15(5412) cos INFO: [Cos_SocketClose:431]socket<980> closed
+10-14 15:17:15(5412) PID_TRAS INFO: [Tras_SlotClose:158]To close the Slot, Slot is 0096C770.
+10-14 15:17:15(5412) PID_TRAS INFO: [Tras_SlotClose:166]SlotClose Slot Socket 968
+10-14 15:17:15(5412) cos INFO: [Cos_SocketClose:431]socket<968> closed
+10-14 15:17:15(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:15(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:15(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:15(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:16(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:16(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:16(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:16(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:16(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:17(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:17(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:17(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:17(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:17(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:17(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:18(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:18(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:18(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:18(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:18(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:19(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:19(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:19(4792) PID_TRAS INFO: [TrasStream_ParseProtocal:57]recv protocal is 210
+10-14 15:17:19(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:19(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:19(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:20(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:20(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:20(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:20(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:20(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:20(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:21(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:21(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:21(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:21(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:21(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:22(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:22(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:22(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:22(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:22(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:22(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:23(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:23(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:23(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:23(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:23(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:24(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:24(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:24(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:24(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:24(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:25(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:25(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:25(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:25(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:25(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:25(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:26(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:26(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:26(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:26(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:26(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:27(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:27(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:27(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:27(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:27(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:28(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:28(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:28(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:28(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:28(5280) PID_CBMD_PLAYER INFO: [Cbmd_Player_Task:592]Cbmd_Player_Task alive uiNowTime[3454876] uiStartTime[3423098]
+10-14 15:17:28(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:28(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:29(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:29(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:29(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:29(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:29(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:30(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:30(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:30(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:30(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:30(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:31(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:31(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:31(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:31(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:31(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:31(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:32(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:32(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:32(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:32(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:32(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:33(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:33(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:33(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:33(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:33(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:34(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:34(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:34(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:34(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:34(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:34(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:35(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:35(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:35(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:35(4792) PID_TRAS INFO: [TrasStream_ParseProtocal:57]recv protocal is 210
+10-14 15:17:35(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:35(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:36(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:36(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:36(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:36(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:36(3332) OLD RTSP INFO: [Old_HeartBeatOnRecvMsg:2590]Old_HeartBeatOnRecvMsg run 1024
+10-14 15:17:36(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:37(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0
+10-14 15:17:37(2116) SA_VIEWER INFO: [CRvsViewerMedia::GetStreamDesc:1081]StreamerCID:70141245 ,AudioType:3 ,SampleRate:8000 , VideoType: 2 ,Width: 704 ,Height: 480 ,Version:0

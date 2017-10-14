@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/cloudTablePic">
+        <file>build/image/shang.jpg</file>
+        <file>build/image/xia.jpg</file>
+        <file>build/image/you.jpg</file>
+        <file>build/image/youshang.jpg</file>
+        <file>build/image/youxia.jpg</file>
+        <file>build/image/zuo.jpg</file>
+        <file>build/image/zuoshang.jpg</file>
+        <file>build/image/zuoxia.jpg</file>
+        <file>build/image/fangdajing1.jpg</file>
+    </qresource>
+</RCC>
